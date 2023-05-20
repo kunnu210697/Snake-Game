@@ -1,0 +1,10 @@
+.\objects\main_1player.o: ..\Files\Software\Application\main_1player.c
+.\objects\main_1player.o: ..\Files\Software\Application\EDK_CM0.h
+.\objects\main_1player.o: ..\Files\Software\Application\core_cm0.h
+.\objects\main_1player.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\main_1player.o: ..\Files\Software\core\core_cmInstr.h
+.\objects\main_1player.o: ..\Files\Software\core\core_cmFunc.h
+.\objects\main_1player.o: ..\Files\Software\Application\edk_driver.h
+.\objects\main_1player.o: ..\Files\Software\Application\core_cm0.h
+.\objects\main_1player.o: ..\Files\Software\device\edk_api.h
+.\objects\main_1player.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
